@@ -1,0 +1,3 @@
+@C:\daten\projekt\transporte\skripte\start.sql
+
+set linesize 500
